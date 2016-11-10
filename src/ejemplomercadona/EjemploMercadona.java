@@ -89,7 +89,7 @@ public class EjemploMercadona {
                 }
             }
         }
-        // 2) Forma de hacerlo
+        // 2) Forma de hacerl
         /*for (int i = 0; i < productos.size(); i++) {
             if (productos.get(i) instanceof Bebida) && (!(productos.get(i) instanceof BebidaAlcoholica))){
                 System.out.println = ((((Bebida) productos.get(i)).getAzucar());
@@ -112,6 +112,10 @@ public class EjemploMercadona {
         }  
         System.out.println(suma / elementos);
     }
+    //Hol
+    
+    
+    
 
     public static void main(String[] args) {
         rellenarDatos();
